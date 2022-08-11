@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/download.png</file>
+    <file>icons/library.png</file>
+    <file>icons/main_icon.png</file>
+    <file>icons/update_icon.png</file>		
+    <file>icons/update_off.png</file>
+    <file>icons/update_ready.png</file>	
+</qresource>
+</RCC>
